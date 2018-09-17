@@ -1,6 +1,6 @@
 
 ///Exercício 2
-var ctx = document.getElementById('grafico2').getContext('2d');
+var ctx = document.getElementById('graf2').getContext('2d');
 var chart = new Chart(ctx, {
     type: 'bar',
     data: {
@@ -60,7 +60,7 @@ var chart = new Chart(ctx, {
 });  
 
 //Exercício 3(c)
-var ctx = document.getElementById('grafico1').getContext('2d');
+var ctx = document.getElementById('graf1').getContext('2d');
    var chart = new Chart(ctx, {
 
        type: 'bar',
