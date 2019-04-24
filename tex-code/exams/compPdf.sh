@@ -7,6 +7,7 @@
 #	      redireciona o arquivo compilado para um diretório de pdfs.
 #
 # Autor(a): Yane Lisset B. Vasquez <yanelisset4@gmail.com>    						       
+#
 # Última atualização: 24/04/2019
 
 
